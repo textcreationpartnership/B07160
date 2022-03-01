@@ -1,0 +1,1301 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Ane godly treatis, callit the first and second cumming of Christ] [with the tone of the winters-nicht shewing brieflie our native blindness / by James Anderson].</title>
+            <author>Anderson, James, d. 1603.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1614</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 37 KB of XML-encoded text transcribed from 14 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B07160</idno>
+            <idno type="STC">STC 572.5</idno>
+            <idno type="STC">ESTC S90283</idno>
+            <idno type="EEBO-CITATION">60449074</idno>
+            <idno type="OCLC">ocm 60449074</idno>
+            <idno type="VID">181174</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B07160)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 181174)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 2173:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>[Ane godly treatis, callit the first and second cumming of Christ] [with the tone of the winters-nicht shewing brieflie our native blindness / by James Anderson].</title>
+                  <author>Anderson, James, d. 1603.</author>
+               </titleStmt>
+               <extent>[32] p.   </extent>
+               <publicationStmt>
+                  <publisher>Andro Hart,</publisher>
+                  <pubPlace>[Edinburgh :</pubPlace>
+                  <date>1614?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In verse.</note>
+                  <note>Attributed to James Anderson, minister of Collace--Cf. NLS.</note>
+                  <note>Title and imprint information from STC (2nd ed.) and NLS.</note>
+                  <note>Signatures: A-B⁸.</note>
+                  <note>Imperfect: leaves A₁ (t.p.), A₃ and A₈ lacking; stained, tightly bound, and with print show-through, resulting in considerable loss of text.</note>
+                  <note>Reproduction oforiginal in: National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Jesus Christ --  Poetry --  Early works to 1800.</term>
+               <term>Jesus Christ --  Second coming --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-05</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2013-05</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="dedication">
+            <pb facs="tcp:181174:1"/>
+            <pb facs="tcp:181174:1" rendition="simple:additions"/>
+            <head>TO THE RIGHT GODLY, WOR<g ref="char:EOLhyphen"/>SHIPFVLL, AND VIGILANT PASTOR IN Chriſts Kirke, <hi>Iohne Erſkin</hi> of <hi>Dun,</hi> eſpeciall planter and builder of the Reformed within the boundes of <hi>An<g ref="char:EOLhyphen"/>gus, Merns, Stermonth,</hi> and <hi>Gowrie: Iames Anderſon,</hi> Miniſter at <hi>Collace,</hi> his moſt humble, and obedient in Chriſt, wiſheth grace and peace from God the Fa<g ref="char:EOLhyphen"/>ther, with increaſe of ſpirituall gifts, and health of bodie, through Ieſus Chriſt our Sauiour. Amen.</head>
+            <lg>
+               <l>RIght ancient Profeſſour of the Trueth,</l>
+               <l>Long time before it came to co<g ref="char:cmbAbbrStroke">̄</g>mon ſight:</l>
+               <l>Which perilous time thou paſſedſt not with ſleuth.</l>
+               <l>But hardily didſt hazard day and night,</l>
+               <l>To bring the Trueth to libertie and light.</l>
+               <l>Life, Land, and geare, thou ſet them all apart,</l>
+               <l>Of that true Treaſure ſo joyfull was thine heart.</l>
+            </lg>
+            <lg>
+               <l>Thine houſe was harbour to all that profeſt,</l>
+               <l>Thy geare was common to them in time of need:</l>
+               <l>Aboue all other thou loued thy brethren beſt:</l>
+               <l>As thy own fleſh thou didſt them cloath &amp; feed:</l>
+               <l>Not naked loue in word, but loue indeed:</l>
+               <l>VVhich loue the Lord forget not to reſtore;</l>
+               <l>The more thou gaue, hee gaue thee aye the more.</l>
+            </lg>
+            <lg>
+               <l>And whe<g ref="char:cmbAbbrStroke">̄</g> it pleaſde Chriſt Ieſus King of grace,</l>
+               <l>To bring his Trueth to light and libertie,</l>
+               <l>And by the ſame, proud Papiſtes to deface,</l>
+               <l>And them ouerthrow, with their Idolatrie:</l>
+               <l>Then did hee call thee to this dignitie,</l>
+               <pb facs="tcp:181174:2"/>
+               <l>To plant his Kirke in <hi>Gowrie, Mernes,</hi> and <hi>Angus,</hi>
+               </l>
+               <l>VVhich prudently thou haſt planted among vs:</l>
+            </lg>
+            <lg>
+               <l>And haſt the ſame oft watered with his word,</l>
+               <l>Perſwading euer to perſeuerance:</l>
+               <l>And not to faint for feare of Fire or Sword:</l>
+               <l>But bee enarmed with Faith and patience,</l>
+               <l>Builded on Chriſt, that Rocke of ſure defence,</l>
+               <l>Thus thou ceaſt not, but traueilledſt faithfully,</l>
+               <l>Till infirme age perforce conſtrained thee.</l>
+            </lg>
+            <lg>
+               <l>Yea, though thou be now warded, as it were,</l>
+               <l>Fro<g ref="char:cmbAbbrStroke">̄</g> tedious trauels, which thou waſt wo<g ref="char:cmbAbbrStroke">̄</g>t to tak,</l>
+               <l>And mayſt not from thy Chamber journey farre:</l>
+               <l>Yet in thy cure thou art not ſlow nor flacke:</l>
+               <l>But as the Bee that doeth collect and make,</l>
+               <l>Her wholſome honey of many Herbes &amp; Flowers,</l>
+               <l>So thou thy Sermons of ſundry ſweet Scriptures:</l>
+            </lg>
+            <lg>
+               <l>VVhich thou doeſt forme into moſt comly writ,</l>
+               <l>For ſpeciall profit to thy Poſteritie:</l>
+               <l>Thy louable labours therein ere and late,</l>
+               <l>VVhen thou art dead, ſhall liue eternally,</l>
+               <l>And keepe thy Name in bleſſed memorie:</l>
+               <l>That as in youth thy tong taught Chriſts word,</l>
+               <l>So in thine age thy penne did preach that Lord.</l>
+            </lg>
+            <lg>
+               <l>I Can not dite as thou haſt done deſerue,</l>
+               <l>In Kirke &amp; Court, Countrey and Commonweale:</l>
+               <l>Carefull the Kirke in peace for to preſerue:</l>
+               <l>In Court thy counſell was ſtout, &amp; true as ſteele:</l>
+               <l>Thy policie decores the Countrey well,</l>
+               <l>In planting Trees, and building places faire,</l>
+               <l>VVith coſtly Brigs ouer waters plaine repaire.</l>
+            </lg>
+            <gap reason="missing" extent="4 pages">
+               <desc>〈4 pages missing〉</desc>
+            </gap>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb facs="tcp:181174:2"/>
+            <head>THE WINTER NIGHT.</head>
+            <lg>
+               <l>THe Winter night, I thinke it long,</l>
+               <l>Full long and teugh, while it ouergang,</l>
+               <l>The winters night I thinke ſo long.</l>
+               <l>Both long and dreigh till day.</l>
+               <l>Full long thinke I the winters night,</l>
+               <l>While daye breake vp with beames ſo bright,</l>
+               <l>And baniſh darkneſſe out of ſight,</l>
+               <l>And workes of darkneſſe, Aa.</l>
+            </lg>
+            <lg n="2">
+               <head>2</head>
+               <l>The Winter night that I of meane,</l>
+               <l>Is not this naturall night I weine,</l>
+               <l>That lackes the light of the Sunne ſhine,</l>
+               <l>And differs from the day.</l>
+               <l>But darkneſſe of our minde it is,</l>
+               <l>Which hides from vs the Heauens bliſſe,</l>
+               <l>Since Adam firſt did make the miſſe,</l>
+               <l>In Paradiſe that day.</l>
+            </lg>
+            <lg n="3">
+               <head>3</head>
+               <l>The joyefull day is Ieſus Chriſt,</l>
+               <l>The Womans ſéede by God promiſt,</l>
+               <l>To tread the Serpents head, that Beaſt,</l>
+               <l>that did vs firſt betray:</l>
+               <l>And it did tread him on the hiele,</l>
+               <l>The bitter death when hee did féele,</l>
+               <l>In his Manhood, to reconcile</l>
+               <l>Vs to our God for ay.</l>
+            </lg>
+            <lg n="4">
+               <head>4</head>
+               <l>The filthie louer, that vs illudes,</l>
+               <l>Is Sathan, with his blinded buds,</l>
+               <pb facs="tcp:181174:3"/>
+               <l>Of fleſhly luſts, and worldly goods,</l>
+               <l>which cauſe vs goe aſtray.</l>
+               <l>Who ceaſeth neuer, but ſubtillie,</l>
+               <l>Firſt gars vs doe, ſyne gars vs die</l>
+               <l>That longſome Night eternally,</l>
+               <l>To draw vs from our Day.</l>
+            </lg>
+            <lg n="5">
+               <head>5</head>
+               <l>Wée haue no Day but onely one,</l>
+               <l>The Sonne of God, our Life alone:</l>
+               <l>For other dayes wée doe know none,</l>
+               <l>Nor yet none other way.</l>
+               <l>To guide vs to the Heauens glore,</l>
+               <l>And to that ſtate vs to reſtore,</l>
+               <l>Which Adam loſt for euermore,</l>
+               <l>Were not that precious Day.</l>
+            </lg>
+            <lg n="6">
+               <head>6</head>
+               <l>Which bleſſed Day muſt twiſe appeare,</l>
+               <l>The firſt, to take our nature here</l>
+               <l>Of his bleſt Mother, a Virgine cleare,</l>
+               <l>As I ſay, doth hée ſay.</l>
+               <l>The ſecond time, the world to judge,</l>
+               <l>Both quicke and dead, that number hudge:</l>
+               <l>Where faithleſſe ſhall finde no refuge,</l>
+               <l>But godly, grace that Day.</l>
+            </lg>
+            <lg n="7">
+               <head>7</head>
+               <l>The firſt cumming is long fore-gane,</l>
+               <l>Senſyne foureſcore of yeares and ninetane,</l>
+               <l>Beyonde ſixe hundreth and a thouſand,</l>
+               <l>Not an houre leſſe or maa.</l>
+               <l>Then ſince the firſt cumming is paſt,</l>
+               <l>Wée ſhould bée looking for the laſt,</l>
+               <l>When the Archangel ſhall the blow blaſt,</l>
+               <l>To dite vs to that Day.</l>
+            </lg>
+            <lg n="8">
+               <pb facs="tcp:181174:3"/>
+               <head>8</head>
+               <l>Long was the Fathers winter night,</l>
+               <l>Fiue thouſand yeares, by reckning right,</l>
+               <l>Twixt Adams fall, and Chriſt did light,</l>
+               <l>into our fleſh that Day.</l>
+               <l>Yet though it was ſo long betwéene,</l>
+               <l>They ſaw him with their ſpirituall eene,</l>
+               <l>Which was the ſtrength did them ſuſtéene,</l>
+               <l>To bide that joyfull day.</l>
+            </lg>
+            <lg n="9">
+               <head>9</head>
+               <l>Abrams faith was ſo repoſed</l>
+               <l>Hée ſaw that day, and was rejoyſed,</l>
+               <l>Though faithles Iewes their eyes cloſed,</l>
+               <l>When as come was that Day.</l>
+               <l>For which their proude hypocriſie,</l>
+               <l>And wilfull incredulitie,</l>
+               <l>They are and (their poſteritie)</l>
+               <l>In darkneſſe to this day.</l>
+            </lg>
+            <lg n="10">
+               <head>10</head>
+               <l>The prudent Prophet Iſaie,</l>
+               <l>Did ſpeake of him als ſpecially,</l>
+               <l>As hée had ſéene him ſenſibly,</l>
+               <l>And béene at his birth day.</l>
+               <l>Firſt ſaw him borne of a pure Maide,</l>
+               <l>Syne heard him preach the Goſpel glad:</l>
+               <l>And laſt, our ſinnes vpon him laide,</l>
+               <l>To take them all away.</l>
+            </lg>
+            <lg n="11">
+               <head>11</head>
+               <l>The Prophet Dauid did perceiue</l>
+               <l>This myſterie beyond the laue,</l>
+               <l>His ſoule ſhould not bée left in graue,</l>
+               <l>Nor fleſh corrupt away.</l>
+               <l>Of which as now I ſpeake no mare,</l>
+               <l>Till proper place, but will it ſpare,</l>
+               <pb facs="tcp:181174:4"/>
+               <l>And forward to our purpoſe fare,</l>
+               <l>Leſt wee ouerlong delay.</l>
+            </lg>
+            <lg n="12">
+               <head>12</head>
+               <l>When Daniel did expone the Dreame,</l>
+               <l>Of the hudge Image, with copper wame,</l>
+               <l>With lims of yron, and féete of leame,</l>
+               <l>and haire of golde ſo gay.</l>
+               <l>Hée ſaw a ſtone without mans hand,</l>
+               <l>Breake firſt the féete, when it did ſtand:</l>
+               <l>Syne brake it als ſmall as the ſand,</l>
+               <l>And brought it to decay.</l>
+            </lg>
+            <lg n="13">
+               <head>13</head>
+               <l>Which Image, with their properties,</l>
+               <l>Did meane the foure great Monarchies,</l>
+               <l>Of Babel, Perſe, and Griece but lies,</l>
+               <l>And Romanes in their ray.</l>
+               <l>The little ſtone that hée did ſee,</l>
+               <l>That brake the Image ſo mightilie,</l>
+               <l>Was Chriſt, that matchleſſe Monarchie,</l>
+               <l>Which neuer ſhall decay,</l>
+            </lg>
+            <lg n="14">
+               <head>14</head>
+               <l>When come was the appointed time,</l>
+               <l>That hée ſhould ſuffer for our crime,</l>
+               <l>Hée lighted in the Virgine wyme,</l>
+               <l>And did no longer ſtay.</l>
+               <l>That bleſſed Virgine then him bred,</l>
+               <l>Without companie of mans bed:</l>
+               <l>The holy Ghoſt her ouerſhed,</l>
+               <l>As Gabriel did ſay.</l>
+            </lg>
+            <lg n="15">
+               <head>15</head>
+               <l>Elizabeth not long before,</l>
+               <l>Conceiued Iohn, who gaue him glore,</l>
+               <l>And in the wombe did him adore,</l>
+               <l>For joye did ſpring and play.</l>
+               <pb facs="tcp:181174:4" rendition="simple:additions"/>
+               <l>His Mother then full feruently,</l>
+               <l>Calde Marie bleſt eternally,</l>
+               <l>That ſhée belieued aſſuredly,</l>
+               <l>To beare that birth that day.</l>
+            </lg>
+            <lg n="16">
+               <head>16</head>
+               <l>In Bethlehem when hée was borne,</l>
+               <l>The Angels timely in the morne,</l>
+               <l>Came to the Heards without ſojourne,</l>
+               <l>In Fieldes whereas they lay.</l>
+               <l>Saying, Rejoyce and make great mirth,</l>
+               <l>Wée bring you tidinges mikell worth.</l>
+               <l>To you is borne a bleſſed birth,</l>
+               <l>In Bethlehem this day.</l>
+            </lg>
+            <lg n="17">
+               <head>17</head>
+               <l>His Starre als in the Firmament,</l>
+               <l>The wiſe men from the Orient,</l>
+               <l>Did call them foorth incontinent,</l>
+               <l>And guid them on the way.</l>
+               <l>Till they came to the ſelfeſame place,</l>
+               <l>Where Chriſt our King then new borne was:</l>
+               <l>That Stare would then no farder paſſe,</l>
+               <l>But ſtood ſtill in a ſtay.</l>
+            </lg>
+            <lg n="18">
+               <head>18</head>
+               <l>Then came they in right courteouſly,</l>
+               <l>Acknowledging his Majeſtie:</l>
+               <l>Offering to him theſe gifts thrée,</l>
+               <l>Gold, Incenſe, Mirh, that day.</l>
+               <l>The Gold becauſe hée was a King,</l>
+               <l>Incenſe, becauſe God euerlaſting:</l>
+               <l>The Mirh, in token of burying,</l>
+               <l>Thus learned Doctours ſay.</l>
+            </lg>
+            <lg n="19">
+               <head>19</head>
+               <l>Iuſt Simeon into his Song,</l>
+               <l>Who for that day did looke ſo long,</l>
+               <pb facs="tcp:181174:5"/>
+               <l>Said, Lord, let now thy ſeruant gang</l>
+               <l>In peace, and paſſe away.</l>
+               <l>Sith that mine eyes haue ſéene this ſight,</l>
+               <l>Of thy ſwéete Sonne the Gentles light,</l>
+               <l>And of the Iewes the glorie bright,</l>
+               <l>Whom thou haſt ſent this day.</l>
+            </lg>
+            <lg n="20">
+               <head>20</head>
+               <l>Iohn Baptiſt did his way prepare,</l>
+               <l>And pointed with his finger there,</l>
+               <l>Behold the Lambe of God ſo faire,</l>
+               <l>That takes our ſinnes away.</l>
+               <l>Bade them belieue and him imbrace,</l>
+               <l>Repent and mend, while they had ſpace,</l>
+               <l>Or otherwiſe they get not no grace,</l>
+               <l>But die in ſinne that day.</l>
+            </lg>
+            <lg n="21">
+               <head>21</head>
+               <l>When Iohn in Iordane him baptized,</l>
+               <l>The Fathers voyce him authorized,</l>
+               <l>This is my Son, in whom I am pleaſed,</l>
+               <l>Heare him what hée doth ſay.</l>
+               <l>And farder, in the peoples ſight.</l>
+               <l>The holy Ghoſt did on him light,</l>
+               <l>And with him bode, to ſhow his might,</l>
+               <l>As God and Man that Day.</l>
+            </lg>
+            <lg n="22">
+               <head>22</head>
+               <l>The diuine doctrine that hée taught,</l>
+               <l>The wonderous works that he wrought,</l>
+               <l>In ſuckring all that to him fought,</l>
+               <l>And ſaying no man nay.</l>
+               <l>His bright tranſfiguration,</l>
+               <l>His patience in his Paſſion,</l>
+               <l>And glorious Reſurrection,</l>
+               <l>Did proue hée was our Day.</l>
+            </lg>
+            <lg n="23">
+               <pb facs="tcp:181174:5"/>
+               <head>23</head>
+               <l>For neuer man did ſpeake as hée,</l>
+               <l>Cauſde deafe men heare, and blind-borne ſée:</l>
+               <l>Hée praide for them that cauſde him die,</l>
+               <l>And roſe on the third day:</l>
+               <l>Then fourtie dayes remained here,</l>
+               <l>With his Diſciples, and did them lere,</l>
+               <l>And gart them know the Scriptures cleare,</l>
+               <l>Before hée paſt away.</l>
+            </lg>
+            <lg n="24">
+               <head>24</head>
+               <l>When hée had fully pacified,</l>
+               <l>His Fathers wrath, and him obeyed</l>
+               <l>Vnto the death, and purified,</l>
+               <l>Our ſinne, as white as Snow:</l>
+               <l>Then ſent hee his Apoſtles out,</l>
+               <l>In all the world to teach about,</l>
+               <l>And put all people out of doubt,</l>
+               <l>That come was his firſt Day.</l>
+            </lg>
+            <lg n="25">
+               <head>25</head>
+               <l>Then with our fleſh before them plaine,</l>
+               <l>Hée did goe vp to Heauen againe:</l>
+               <l>Whereas his manhood muſt remaine,</l>
+               <l>Till the dreadfull Doomeſday.</l>
+               <l>But when that dreadfull Day ſhall bee,</l>
+               <l>No creature knoweth certainly,</l>
+               <l>Except the Father, and that onely,</l>
+               <l>So doubtſome is that Day.</l>
+            </lg>
+            <lg n="26">
+               <head>26</head>
+               <l>Wherefore the Lord bade all men watch,</l>
+               <l>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd let not ſinne nor ſleuth them catch,</l>
+               <l>Incaſe vnwares hée with them match,</l>
+               <l>When they leaſt thinke that Day.</l>
+               <l>Is with the Virgines, which playde the foole,</l>
+               <l>That had their Lampes, but lacked Oyle:</l>
+               <pb facs="tcp:181174:6"/>
+               <l>They got not in, but cauſde recoole,</l>
+               <l>And barred out that day.</l>
+            </lg>
+            <lg n="27">
+               <head>27</head>
+               <l>The many tokens that wée read,</l>
+               <l>That ſecond day which ſhould proceede,</l>
+               <l>Are come already in verie déede,</l>
+               <l>Both come and gone away,</l>
+               <l>As well into the Heauen aboue,</l>
+               <l>As in the Earth almoſt are done,</l>
+               <l>Which ſignifices it ſhall come ſoone,</l>
+               <l>As pleaſed God that day.</l>
+            </lg>
+            <lg n="28">
+               <head>28</head>
+               <l>As for the ſignes celeſtiall,</l>
+               <l>For longſomneſſe I leaue them all,</l>
+               <l>And treat of the terreſtriall,</l>
+               <l>That ſhould procéede that day.</l>
+               <l>In Scripture which are ſpecified,</l>
+               <l>Wée ſhall them find accompliſhed,</l>
+               <l>To ſée the ſame then verrified,</l>
+               <l>Attend what I now ſay.</l>
+            </lg>
+            <lg n="29">
+               <head>29</head>
+               <l>Firſt ſhall bee Battels, and bloody Warres,</l>
+               <l>That people and policie downe beares,</l>
+               <l>VVe heare their rumour with our eares,</l>
+               <l>Increaſing euery day.</l>
+               <l>Both Forraine Warres and Inteſtiene,</l>
+               <l>That Realmes and Countreys wracketh cleane:</l>
+               <l>Wée ſée this token before our eine,</l>
+               <l>Accompliſhed this day.</l>
+            </lg>
+            <lg n="30">
+               <head>30</head>
+               <l>And yet the world moſt certainly,</l>
+               <l>Is ſetled in ſuch ſecuritie,</l>
+               <l>They thinke not once that they muſt die,</l>
+               <l>And anſwere to that day.</l>
+               <gap reason="missing" extent="2 pages">
+                  <desc>〈2 pages missing〉</desc>
+               </gap>
+            </lg>
+            <lg n="38">
+               <pb facs="tcp:181174:6"/>
+               <head>38</head>
+               <l>Loue towards God is almoſt gone,</l>
+               <l>And loue to Neighbour colde as ſtone,</l>
+               <l>No loue now, but ſelfe-loue alone,</l>
+               <l>Amongſt all beares the ſway.</l>
+               <l>In Gods owne cauſe no feruencie:</l>
+               <l>The poore oppreſt are cruellie:</l>
+               <l>All ſéeke themſelues ſo narrowlie,</l>
+               <l>Promiſe and Loue is quite away.</l>
+            </lg>
+            <lg n="39">
+               <head>39</head>
+               <l>The fourth ſhall bée defection,</l>
+               <l>From Chriſt, and his correction,</l>
+               <l>By folke of vile affection,</l>
+               <l>Before that ſecond day:</l>
+               <l>That of his word they ſhall take loath,</l>
+               <l>And with true Preachers bée ſo wroth,</l>
+               <l>That when Chriſt comes ſcarſely ſhall Faith,</l>
+               <l>Bée found in Earth that day.</l>
+            </lg>
+            <lg n="40">
+               <head>40</head>
+               <l>This token for to teſtifie,</l>
+               <l>That it is now come certainly,</l>
+               <l>The manifeſt Apoſtaſie,</l>
+               <l>That many make this day,</l>
+               <l>From Chriſtes Kirke, and little Flocke,</l>
+               <l>Which heare his word, and beare his yoke<g ref="char:punc">▪</g>
+               </l>
+               <l>Whome theſe Apoſtates doe but mocke,</l>
+               <l>By word and writ each day.</l>
+            </lg>
+            <lg n="41">
+               <head>41</head>
+               <l>There is two ſorts of Apoſtates,</l>
+               <l>Some from Chriſtes word are run-a-gates,</l>
+               <l>Themſelues that excommunicates,</l>
+               <l>From Chriſtes Kirke and Fay.</l>
+               <l>Of this ſort are our Ieſuites,</l>
+               <l>The ſlieſt ſort of Hypocrites,</l>
+               <pb facs="tcp:181174:7"/>
+               <l>That Sathan ſent with lying ſpirites,</l>
+               <l>In Earth this many day.</l>
+            </lg>
+            <lg n="42">
+               <head>42</head>
+               <l>For to aduance their fained fame,</l>
+               <l>Of Ieſus they vſurpe their name,</l>
+               <l>And yet they traitors thinke no ſhame,</l>
+               <l>His trueth for to betray.</l>
+               <l>More méete of Iudas Iudaites,</l>
+               <l>Or of <hi>Sus ſuis</hi> bee calde ſuites,</l>
+               <l>
+                  <hi>Ad volutabrum</hi> of Romes ruites,</l>
+               <l>They had their name perfay.</l>
+            </lg>
+            <lg n="43">
+               <head>43</head>
+               <l>For Ieſuites in generall,</l>
+               <l>Are traitors to Chriſt Ieſus all:</l>
+               <l>And ſéeke to gar his Kingdome fall,</l>
+               <l>With all the might they may.</l>
+               <l>Omitting none occaſion,</l>
+               <l>To furder their inuaſion.</l>
+               <l>By peſtilent perſwaſion,</l>
+               <l>Both by night and day.</l>
+            </lg>
+            <lg n="44">
+               <head>44</head>
+               <l>Their doctrine is but Papiſtrie.</l>
+               <l>Set out with ſubtile Sophiſtrie,</l>
+               <l>Founded to foſter Idolatrie,</l>
+               <l>By learned leys alway.</l>
+               <l>For to maintaine the Popes Empyre,</l>
+               <l>They are vpholden with his hyre:</l>
+               <l>But at the length into the myre,</l>
+               <l>Both hée and they ſhall faa.</l>
+            </lg>
+            <lg n="45">
+               <head>45</head>
+               <l>They haue forſaken the wholſome ſtrands,</l>
+               <l>Of Gods owne word, and his Commands,</l>
+               <l>And digged vp with féete and hands,</l>
+               <l>And Padels of Papiſts Laa.</l>
+               <pb facs="tcp:181174:7"/>
+               <l>And though they drinke while that they bu<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ſt,</l>
+               <l>Thoſe pooles ſhall neuer ſ<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>aike their thirſt:</l>
+               <l>But make their ſoules (drinke as they liſt)</l>
+               <l>More drie from day to day.</l>
+            </lg>
+            <lg n="46">
+               <head>46</head>
+               <l>The fond opinions of Papiſtrie,</l>
+               <l>In euery point particularlie,</l>
+               <l>Are elſe confuted cunningly,</l>
+               <l>By moe than one or twa.</l>
+               <l>It were but labour then in vaine,</l>
+               <l>To tread the ſame ouer againe:</l>
+               <l>Chriſts written word hath ſo them ſlaine</l>
+               <l>They haue no more to ſay,</l>
+            </lg>
+            <lg n="47">
+               <head>47</head>
+               <l>Yet they pretend Antiquitie,</l>
+               <l>So doe they diſcens Linallie,</l>
+               <l>And locall Viſibilitie,</l>
+               <l>From Chriſt vnto this day.</l>
+               <l>In Chriſts time no Papiſtrie:</l>
+               <l>They are degenerate whollie,</l>
+               <l>And brooke that place by tyrannie,</l>
+               <l>Againſt Chriſt euery day.</l>
+            </lg>
+            <lg n="48">
+               <head>48</head>
+               <l>And to performe their interpriſe:</l>
+               <l>They leaue not off with once or twiſe:</l>
+               <l>But vp againe they mint to riſe,</l>
+               <l>The trueth to ſtope and ſtay,</l>
+               <l>But when that Light they cannot ſm<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>re,</l>
+               <l>Which in their ſpite ſhines more and more,</l>
+               <l>This is the laſt they make them fore.</l>
+               <l>True teachers to miſlay.</l>
+            </lg>
+            <lg n="49">
+               <head>49</head>
+               <l>Theſe truethleſſe trukers without all ſhame,</l>
+               <l>Name ſundrie Paſtors by their name:</l>
+               <pb facs="tcp:181174:8"/>
+               <l>Them and their Doctrine to defame,</l>
+               <l>Loude lies abroad they lay.</l>
+               <l>The Iewes, they calde our Soueraigne</l>
+               <l>Poſſeſt, ſinfull Samaritane,</l>
+               <l>Yea, Drunkard, and vylde Publicane,</l>
+               <l>Who knew no ſinne at aa.</l>
+            </lg>
+            <lg n="50">
+               <head>50</head>
+               <l>No ſeruant is aboue his Lord,</l>
+               <l>To bide ſuch bragges: then make vs ford,</l>
+               <l>Remembring aye our Maſters word.</l>
+               <l>Who ſhewde it ſhould bée ſa.</l>
+               <l>Sith it is for the trueths owne ſake,</l>
+               <l>The godly will no ſlander take,</l>
+               <l>What euer leaſings theſe Lyars make.</l>
+               <l>On one, or yet on aa.</l>
+            </lg>
+            <lg n="51">
+               <head>51</head>
+               <l>Full many of our Nation, Scots,</l>
+               <l>Spread daylie foorth of their foule ſpots:</l>
+               <l>Who would bée glade to cut our throats,</l>
+               <l>If they might ſée their day.</l>
+               <l>Yet though they would our bodies ſlay,</l>
+               <l>(If wée may lawfull for them pray)</l>
+               <l>Wée would them ſhow in the right way</l>
+               <l>Of Chriſt, and of his Laa.</l>
+            </lg>
+            <lg n="52">
+               <head>52</head>
+               <l>Though they haue pleaſure in deſpite,</l>
+               <l>Which they ſpue out by word and write,</l>
+               <l>In ſuch paſtime wée not delite,</l>
+               <l>Neither in earnſt or play.</l>
+               <l>This God doeth know, good men perceiues,</l>
+               <l>If wée ſpeake ought againſt theſe Knaues,</l>
+               <l>Their lies and raylings this ſame reaues,</l>
+               <l>Out of our hands this day.</l>
+            </lg>
+            <lg n="53">
+               <pb facs="tcp:181174:8"/>
+               <head>53</head>
+               <l>The other ſort doe ſwerue in life,</l>
+               <l>In whom all ſinne aboundeth riſe:</l>
+               <l>Who will not mend, but ſtirre vp ſtrife,</l>
+               <l>Againſt the Kirke alway.</l>
+               <l>And for their vitious vilanie,</l>
+               <l>And this kind of Apoſtaſie,</l>
+               <l>The pure Kirke from her companie,</l>
+               <l>Doeth cut off euery day.</l>
+            </lg>
+            <lg n="54">
+               <head>54</head>
+               <l>That is the true Catholicke Kirke,</l>
+               <l>Of Gods owne word that doth not irke,</l>
+               <l>But thereto frames all that they worke,</l>
+               <l>Both Faith and Fact alſwa.</l>
+               <l>Our Kirke is builded thereon ſure,</l>
+               <l>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd ſhall by Gods good grace indure:</l>
+               <l>But Romiſh Kirke that Babels Hoore,</l>
+               <l>Hath caſt it cleane away.</l>
+            </lg>
+            <lg n="55">
+               <head>55</head>
+               <l>Can ſhée bee calde a faythfull Spouſe,</l>
+               <l>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>er Huſbands word that no wayes trowes,</l>
+               <l>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>or at his bidding neuer bowes,</l>
+               <l>But ſtill doth diſobey?</l>
+               <l>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o more can Romiſh Synagogue,</l>
+               <l>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ée calde the Spouſe and Kirke of God:</l>
+               <l>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>or Dan, Bethell, Gog, or Magog,</l>
+               <l>That did forſake his Lay.</l>
+            </lg>
+            <lg n="56">
+               <head>56</head>
+               <l>They will not make the Scripture Iudge,</l>
+               <l>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>or them they ſhould finde no refuge:</l>
+               <l>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ut from their lurking gart deludge,</l>
+               <l>And leaſings lay away.</l>
+               <l>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>it will bee Iudges vnto it,</l>
+               <l>
+                  <gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>d wreſt it to their worldly wit:</l>
+               <pb facs="tcp:181174:9"/>
+               <l>And ſo in mens conſcience ſit,</l>
+               <l>As Antichriſts this day.</l>
+            </lg>
+            <lg n="57">
+               <head>57</head>
+               <l>Fift, Antichriſt ſhall be reuealed,</l>
+               <l>That man of ſinne, Sathans childe,</l>
+               <l>And by the Sprite of Chriſt be kilde,</l>
+               <l>His breath it ſhall him ſlay.</l>
+               <l>And make that Monſter manifeſt,</l>
+               <l>Which hath the Kirke of Chriſt oppreſt:</l>
+               <l>And Chriſtes place proudly poſſeſt,</l>
+               <l>On Earth this many a day.</l>
+            </lg>
+            <lg n="58">
+               <head>58</head>
+               <l>That ſame is very Antichriſt,</l>
+               <l>Whoſe law and life is contrare Chriſts:</l>
+               <l>And Chriſts Shéepe doeth boaſt and tyſt,</l>
+               <l>From Chriſt to come away.</l>
+               <l>And him imbrace in Chriſts ſtead,</l>
+               <l>Of Kirke as vniuerſall Head,</l>
+               <l>And kéepe the ſtatutes hée hath made,</l>
+               <l>Contrarie to Gods Laa.</l>
+            </lg>
+            <lg n="59">
+               <head>59</head>
+               <l>Though Antichriſts full many béene,</l>
+               <l>Since Chriſtes time, as may bée ſeene,</l>
+               <l>Was neuer Antichriſt ſo kéene,</l>
+               <l>As is the Pope this day.</l>
+               <l>The Kirke of Chriſt for to deceiue,</l>
+               <l>And Chriſts glore to ſteale and reane:</l>
+               <l>Moſt craftily hée playes the Knaue,</l>
+               <l>Aboue all other this day.</l>
+            </lg>
+            <lg n="60">
+               <head>60</head>
+               <l>Of ſeruants Stiles him ſeruiture,</l>
+               <l>Yet hee vſurpes Diuine honours,</l>
+               <l>And maketh all, both xich and poore,</l>
+               <l>On groufe before him faa.</l>
+               <pb facs="tcp:181174:9"/>
+               <l>And will no nearer them admit,</l>
+               <l>But kiſſe the Pantone on his féet,</l>
+               <l>When hée vpon his throne doeth ſit,</l>
+               <l>As Antichriſt each day.</l>
+            </lg>
+            <lg n="61">
+               <head>61</head>
+               <l>If there were made compariſon,</l>
+               <l>Twixt Chriſt, and this companion,</l>
+               <l>Great would bée that diuiſion,</l>
+               <l>Should bée betwéene them twa.</l>
+               <l>In euerie point contrarious,</l>
+               <l>The Pope is to the Lord Ieſus:</l>
+               <l>Should hée not then bée odious,</l>
+               <l>To faythfull, one and aa?</l>
+            </lg>
+            <lg n="62">
+               <head>62</head>
+               <l>Chriſt is the Sonne of Veritie,</l>
+               <l>Begotten of God eternally,</l>
+               <l>Sent to the world to ſhew mercie,</l>
+               <l>On all that on him caa.</l>
+               <l>The Pope the ſonne of Lucifiere,</l>
+               <l>The father of lies, and firſt lier:</l>
+               <l>Moſt like his father a murderier,</l>
+               <l>Of all that Chriſt will knaa.</l>
+            </lg>
+            <lg n="63">
+               <head>63</head>
+               <l>Chriſt being God in Deitie,</l>
+               <l>To ſhew his great humanitie,</l>
+               <l>Came Man in our humilitie,</l>
+               <l>From Hell to ſaue vs aa.</l>
+               <l>The Pope a man of earth, earthly,</l>
+               <l>To ſhew his pridfull tyranny,</l>
+               <l>Will bee like God in dignity,</l>
+               <l>To loſe himſelfe and aa.</l>
+            </lg>
+            <lg n="64">
+               <head>64</head>
+               <l>Chriſt would not be an earthly King,</l>
+               <l>Nor yet a Iudge in worldly thing,</l>
+               <pb facs="tcp:181174:10"/>
+               <l>But had his pleaſure in publiſhing,</l>
+               <l>His Fathers will and Laa.</l>
+               <l>The Pope a worldly King will bée,</l>
+               <l>Yea, more, a mixed Monarchie,</l>
+               <l>To that effect hath Crownes thrée,</l>
+               <l>And both the ſwords will draa,</l>
+            </lg>
+            <lg n="65">
+               <head>65</head>
+               <l>Chriſt did abhorre Idolatrie,</l>
+               <l>So did hée vaine Hypocriſie,</l>
+               <l>And vſed but ſimplicitie,</l>
+               <l>Into his Kirke alway.</l>
+               <l>The Pope maintaines Imageries,</l>
+               <l>Wide Coules, ſide Caps, with Philatries:</l>
+               <l>With ſhauing, jowking, and juglaries,</l>
+               <l>Into the Kirke each day.</l>
+            </lg>
+            <lg n="66">
+               <head>66</head>
+               <l>Chriſt made but once a Sacrifice,</l>
+               <l>Whereby ſo full hée paide our price,</l>
+               <l>Wée neede no moe to purge our vice,</l>
+               <l>Nor it make ouer each day.</l>
+               <l>The Pope will it not haue alone,</l>
+               <l>But Sacrifices many one:</l>
+               <l>And als the ſame made ouer againe:</l>
+               <l>By his Maſſe-Prieſt each day.</l>
+            </lg>
+            <lg n="67">
+               <head>67</head>
+               <l>Chriſt taught Iuſtification,</l>
+               <l>To come fréely by Fayth alone,</l>
+               <l>Without any ſatiſfaction,</l>
+               <l>Of our Workes any way.</l>
+               <l>The Pope with his corrupted Clerkes,</l>
+               <l>Apply a great part to their workes,</l>
+               <l>Such euill ſéede their wicked ſparkes,</l>
+               <l>Sow in the Kirke this day.</l>
+            </lg>
+            <lg n="68">
+               <pb facs="tcp:181174:10"/>
+               <head>68</head>
+               <l>Chriſt preached full remiſſion.</l>
+               <l>From fault and paine ſolution,</l>
+               <l>To all of true contrition,</l>
+               <l>On him that fixt their Fay.</l>
+               <l>The Pope affirmes, that paine remaines</l>
+               <l>In Purgatorie, that place of paines,</l>
+               <l>And neuer ſlakes, till hée get gaines,</l>
+               <l>To take the paine away.</l>
+            </lg>
+            <lg n="69">
+               <head>69</head>
+               <l>Chriſt bade all people more and min,</l>
+               <l>Come vnto him, oppreſt with ſinne,</l>
+               <l>Hee ſhall them of that burden twin,</l>
+               <l>It fréely take away.</l>
+               <l>The Pope bids all oppreſt with ſinnes,</l>
+               <l>Come buy his pardons in ſhéepe Skins,</l>
+               <l>They are beſt hearde that firſt beginnes</l>
+               <l>And offers moſt that day.</l>
+            </lg>
+            <lg n="70">
+               <head>70</head>
+               <l>Chriſt bade vs all our prayers frame,</l>
+               <l>To God aboue, and in his Name,</l>
+               <l>Aſſuring vs t'obtaine the ſame,</l>
+               <l>Our aſkings, one and aa.</l>
+               <l>The Pope bids, pray to creatures,</l>
+               <l>In name of moe mediatures:</l>
+               <l>Or otherwiſe hée vs aſſures,</l>
+               <l>Wée ſhall get nought at aa.</l>
+            </lg>
+            <lg n="71">
+               <head>71</head>
+               <l>Chriſt knew no prayer for the dead,</l>
+               <l>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ince faythfull from all paine are fred:</l>
+               <l>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd for the damned no remead,</l>
+               <l>After they goe away.</l>
+               <l>The Pope, for dead folke bids all pray,</l>
+               <l>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o eaſe their paine in purgatorie:</l>
+               <pb facs="tcp:181174:11"/>
+               <l>Soule-maſſe, and drierie Dirigie,</l>
+               <l>To take their paine away.</l>
+            </lg>
+            <lg n="72">
+               <head>72</head>
+               <l>Chriſt into his New Teſtament,</l>
+               <l>Ordained not a Sacrament,</l>
+               <l>Safe Baptiſme, and the Supper meant,</l>
+               <l>Theſe two but any moe.</l>
+               <l>The Pope to theſe hath added fiue,</l>
+               <l>And Sacraments made ſeuen beliue,</l>
+               <l>So as hée liſts doth clampe and ryue,</l>
+               <l>Chriſts ordinances each day.</l>
+            </lg>
+            <lg n="73">
+               <head>73</head>
+               <l>Chriſt lawfull Marriage approued,</l>
+               <l>To eate all meates all men lieued,</l>
+               <l>That no mans conſcience ſhould bee grieued,</l>
+               <l>No ſtate, no time, no day.</l>
+               <l>The Pope forbiddeth Matrimonie,</l>
+               <l>To all eſtates of his Clergie:</l>
+               <l>And who eateth fleſh, ſinnes, deadly:</l>
+               <l>In Lent, or on fryday.</l>
+            </lg>
+            <lg n="74">
+               <head>74</head>
+               <l>Chriſt came to breake the bond of ſinne,</l>
+               <l>And gaue none leaue to lye therein,</l>
+               <l>But bade all mend, both more and min,</l>
+               <l>And lay that yoke away.</l>
+               <l>The Pope to ſinne giues libertie,</l>
+               <l>To Bordels, and vylde lecherie,</l>
+               <l>Which payeth him yearly tributie,</l>
+               <l>In Romes towne this day.</l>
+            </lg>
+            <lg n="75">
+               <head>75</head>
+               <l>Then his Religion is impure,</l>
+               <l>A monſtrous Maſke, and vylde mixture,</l>
+               <l>Of Gentiles Rites, and Iewes for ſure,</l>
+               <l>And made vs, of theſe twa.</l>
+               <pb facs="tcp:181174:11"/>
+               <l>And eke his life licentious,</l>
+               <l>A world of vices monſtruous,</l>
+               <l>Is both to Chriſt contrarious,</l>
+               <l>What then ſhould wée him caa?</l>
+            </lg>
+            <lg n="76">
+               <head>76</head>
+               <l>For Antichriſt ſith hee is knawne,</l>
+               <l>And ſinfull ſecrets all foorth ſhawne,</l>
+               <l>Wherby he hath this long time drawne,</l>
+               <l>The flocke from Chriſt away.</l>
+               <l>Let vs, therefore, in time looke vp,</l>
+               <l>And drinke no longer of his cupe,</l>
+               <l>Leſt of theſe plagues wee féele the whip,</l>
+               <l>Which ſhall him wracke for aye,</l>
+            </lg>
+            <lg n="77">
+               <head>77</head>
+               <l>Laſt, for the calling of the Iewes,</l>
+               <l>To Chriſt their King and ſprituall Spouſe</l>
+               <l>Their's ſundry of that ſort that bowes,</l>
+               <l>Vnto the Fayth each day.</l>
+               <l>And if the Iewes conuert not all,</l>
+               <l>Of this let bs aſſure our ſell,</l>
+               <l>That his Elect the Lord ſhall call,</l>
+               <l>Of them before that day.</l>
+            </lg>
+            <lg n="78">
+               <head>78</head>
+               <l>For of that people rebellious,</l>
+               <l>God hath now cald Tremellious,</l>
+               <l>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> conuert moſt commodious,</l>
+               <l>Vnto his Kirke this day.</l>
+               <l>Moſt learned in the Hebrwe phraſe,</l>
+               <l>That was ſince the Apoſtles dayes,</l>
+               <l>The Bible doth giue him that prayſe</l>
+               <l>Which hee tranſlated this day,</l>
+            </lg>
+            <lg n="79">
+               <head>79</head>
+               <l>Now ſith the tokens all and ſome,</l>
+               <l>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>re come, and few or none to come:</l>
+               <pb facs="tcp:181174:12"/>
+               <l>We ſhould not be like blind and dumbe,</l>
+               <l>That nothing can perſaa.</l>
+               <l>But ſhould bée marking euermore,</l>
+               <l>Both with our eye, and with our eare:</l>
+               <l>Leſt that the Lord come at vnware,</l>
+               <l>And call vs to that day.</l>
+            </lg>
+            <lg n="80">
+               <head>80</head>
+               <l>And though that day bee horrible,</l>
+               <l>To Faythleſſe wratches miſeable,</l>
+               <l>And to contemners terrible,</l>
+               <l>And gar them cry and ſay,</l>
+               <l>O Craigs, and Mountains monſtruous,</l>
+               <l>Fall downe at once, and couer vs,</l>
+               <l>From that juſt Lambe, the Lord Ieſus,</l>
+               <l>VVho ſhall vs judge this day.</l>
+            </lg>
+            <lg n="81">
+               <head>81</head>
+               <l>Let not the Faithfull bée diſmaide,</l>
+               <l>Nor of that day bee ought affraide:</l>
+               <l>But joyfully lift vp their head,</l>
+               <l>To méete their Groome that day.</l>
+               <l>And when they ſée the ſignes appeare,</l>
+               <l>Let them rejoyce, and make good cheare,</l>
+               <l>For their Redeemer draweth neare,</l>
+               <l>VVho ſhall them bleſſe for aye.</l>
+            </lg>
+            <lg n="82">
+               <head>82</head>
+               <l>Their buried bodies hée ſhall raiſe,</l>
+               <l>From earth vnto eternall eaſe,</l>
+               <l>And in a moment change all theſe,</l>
+               <l>That bée aliue that day:</l>
+               <l>They ſhall bée reſt into the aire.</l>
+               <l>To méete that King ſhall end their faire,</l>
+               <l>And giue them joy for euermaire,</l>
+               <l>VVhich neuer ſhall decay.</l>
+            </lg>
+            <lg n="83">
+               <pb facs="tcp:181174:12"/>
+               <head>83</head>
+               <l>For then ſhall this corruption,</l>
+               <l>Be cled with incorruption,</l>
+               <l>And this mortalitie put on,</l>
+               <l>Immortalitie for aye.</l>
+               <l>Then ſhall the ſoule bee ſatiate,</l>
+               <l>VVhen body is reſuſſitate:</l>
+               <l>And with their head glorificate,</l>
+               <l>Triumphantly that day.</l>
+            </lg>
+            <lg n="84">
+               <head>84</head>
+               <l>No ſorrow ſhall bée in their ſpleine,</l>
+               <l>And all teares wyped from their eine:</l>
+               <l>Both ſoule and body then ſhall ſhiene,</l>
+               <l>Like Sunne in Summers day.</l>
+               <l>When they ſhall get that Crowne of glore,</l>
+               <l>Preparde for them ſo long before:</l>
+               <l>VVhich they ſhall brooke for euermore,</l>
+               <l>VVithout change or delay.</l>
+            </lg>
+            <lg n="85">
+               <head>85</head>
+               <l>Though this bée calde the VVinters Night,</l>
+               <l>It is a verie Lampe of Light,</l>
+               <l>To guide vs to the Heauen aright,</l>
+               <l>By Chriſt the onely way.</l>
+               <l>Then méete it were wée did it cleare,</l>
+               <l>And had the ſame in prompe perquiere,</l>
+               <l>This Winter Night it endeth here,</l>
+               <l>To God bée praiſe for ay.</l>
+            </lg>
+            <lg n="86">
+               <head>86</head>
+               <l>Chriſt Prince of Paſtors defend and kéepe,</l>
+               <l>The little Flocke of thy poore Shéepe,</l>
+               <l>From Sathan, that doeth neuer ſleepe,</l>
+               <l>But waites them night and day.</l>
+               <l>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd from all earthly enmity,</l>
+               <l>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rom bloody Papiſts eſpecially,</l>
+               <pb facs="tcp:181174:13"/>
+               <l>Who both by craft and cruelty,</l>
+               <l>Séeke to deſtroy them aa.</l>
+            </lg>
+            <lg n="87">
+               <head>87</head>
+               <l>God ſaue the Kings Majeſtie,</l>
+               <l>Thy graces on him multiplie,</l>
+               <l>That hée may know his duetie,</l>
+               <l>And doe the ſame alſwa.</l>
+               <l>Thy bleſſed word to fortifie,</l>
+               <l>And purge this Realme of Papiſtrie,</l>
+               <l>And to doe Iuſtice equally,</l>
+               <l>Both to the great and ſmaa.</l>
+            </lg>
+            <lg n="88">
+               <head>88</head>
+               <l>God grant him in his perfect age,</l>
+               <l>A vertuous Quéene in marriage:</l>
+               <l>Come of a godly Parentage,</l>
+               <l>That yoke with him to draw,</l>
+               <l>And grant them good poſteritie,</l>
+               <l>To know and loue the veritie,</l>
+               <l>To reign<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> and rule in his Country,</l>
+               <l>So long as day doeth daa,</l>
+            </lg>
+            <lg n="89">
+               <head>89</head>
+               <l>Court, Counſell, and Nobility,</l>
+               <l>Lord, purge from all Impiety,</l>
+               <l>And namely from Hypocriſie,</l>
+               <l>And Auarice with aa.</l>
+               <l>And as their heartes meane inwardly,</l>
+               <l>To thee, and to his Majeſtie,</l>
+               <l>To thy pure Kirke, and this Countrie,</l>
+               <l>Reward them one and aa.</l>
+            </lg>
+            <lg n="90">
+               <head>90</head>
+               <l>Bleſſe, Lord, thy Paſtors Spirituall,</l>
+               <l>With giftes ſupernaturall:</l>
+               <l>That thy true word they may vs tell,</l>
+               <l>A<gap reason="illegible" resp="#MURP" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>ed with mans laa.</l>
+               <pb facs="tcp:181174:13"/>
+               <l>Yea, ſhining lights, and ſauorie ſalt,</l>
+               <l>In word and deed they may bee that,</l>
+               <l>And Chriſts cauſe ſtoutly to debate,</l>
+               <l>Say contrare who will ſay.</l>
+            </lg>
+            <lg n="91">
+               <head>91</head>
+               <l>Purge, Lord, thy Kirke, and make it cleane,</l>
+               <l>From Baalams Prieſts, that therein beene,</l>
+               <l>Who not thy glorie, but their owne meane,</l>
+               <l>And vantage all the way.</l>
+               <l>Lord, make the King once vnderſtand,</l>
+               <l>The great corruptions in that band,</l>
+               <l>Them to reforme hee may holde hand,</l>
+               <l>According to thy Laa.</l>
+            </lg>
+            <lg n="92">
+               <head>92</head>
+               <l>And from dumbe Dogs that cannot barke:</l>
+               <l>From waſtefull Bées, tha<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ake no warke:</l>
+               <l>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>Vho neuer aime at the right marke,</l>
+               <l>(Lord purge thy Kirke this day)</l>
+               <l>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hey ſuppe the Milke, and worrie the Yow,</l>
+               <l>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o fill their ydle bellies fow:</l>
+               <l>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oth ſlocke and heard they plucke and pow,</l>
+               <l>Moſt cruelly this day.</l>
+            </lg>
+            <lg n="93">
+               <l>From Idolater and Hypocrite<g ref="char:punc">▪</g>
+               </l>
+               <l>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rom Athiſt, Papiſt, and Ieſuite,</l>
+               <l>
+                  <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>d from the vſurs of Sathans ſprite,</l>
+               <l>By Witch-crafe any way,</l>
+               <l>
+                  <gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>om oppreſſion, Murder, and Miſchiefe,</l>
+               <l>
+                  <gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>om Bellie gods, from Hoore and Thiefe,</l>
+               <l>
+                  <gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>om Auarice, of others chiefe,</l>
+               <l>Lord, purge this Land this day,</l>
+            </lg>
+            <lg n="94">
+               <head>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>4</head>
+               <l>Inſpire the common Populare.</l>
+               <l>
+                  <gap reason="illegible" resp="#MURP" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>pire their heart, and open their eare,</l>
+               <pb facs="tcp:181174:14"/>
+               <l>That they may heare thy word with feare,</l>
+               <l>Belieue and eke obey.</l>
+               <l>Lord make vs thankfull vnto thee,</l>
+               <l>That bleſſed ſight haſt<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> let vs ſée.</l>
+               <l>And grant vs therein conſtancie,</l>
+               <l>How euer you vs faa.</l>
+            </lg>
+            <lg n="95">
+               <head>
+                  <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </head>
+               <l>Glore to the Father full of might,</l>
+               <l>Glore to the Sonne our Day ſo bright:</l>
+               <l>Glore to the holy Ghoſt<g ref="char:punc">▪</g> that Light,</l>
+               <l>That lets vs ſée our Day,</l>
+               <l>One GOD equall in Maieſtie:</l>
+               <l>And yet diſtinct in perſons thrée.</l>
+               <l>As was, is now, and aye, ſhall bée.</l>
+               <l>Beyond all Night and Day.</l>
+            </lg>
+            <closer>
+               <hi>So bee it<g ref="char:punc">▪</g>
+               </hi> euen <hi>So bee it.</hi>
+            </closer>
+            <pb facs="tcp:181174:14"/>
+         </div>
+      </body>
+   </text>
+</TEI>
